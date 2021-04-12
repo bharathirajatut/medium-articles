@@ -12,8 +12,7 @@ Medium.com articles link category-wise
 3. <a href="https://javascript.plainenglish.io/async-validation-in-angular-step-by-step-guide-with-php-and-mysql-ebb551ef4b8f">Async Validation in Angular | Step By Step Guide with PHP and MySQL</a>
 4. <a href="https://javascript.plainenglish.io/export-data-to-excel-in-angular-using-exceljs-305ba8c5dece"> Export Data to Excel in Angular Using ExcelJS</a>
 5. <a href="https://javascript.plainenglish.io/how-lazy-loading-impacts-angular-app-performance-9c1ee0cb11ea">How Lazy Loading Impacts Angular App Performance </a>
-6. <a href="https://medium.com/codex/7-common-mistakes-every-beginner-programmer-makes-8fe8ed3b190a"> 7 Common Mistakes Every Beginner Programmer Makes
-</a>
+6. <a href="https://medium.com/codex/7-common-mistakes-every-beginner-programmer-makes-8fe8ed3b190a"> 7 Common Mistakes Every Beginner Programmer Makes</a>
 7. <a href="https://javascript.plainenglish.io/how-to-protect-routes-in-angular-from-unauthorized-access-52a131610266"> How to Protect Routes in Angular From Unauthorized Access</a>
 
 ## Android
