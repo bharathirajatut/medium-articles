@@ -43,6 +43,7 @@ Medium.com articles link category-wise
 
 ## DevOps
 1. <a href="https://medium.com/nerd-for-tech/how-to-choose-between-kubernetes-and-docker-e16321a7d2f">How to Choose Between Kubernetes and Docker</a>
+2. <a href="https://bharathirajatut.medium.com/install-jenkins-on-ubuntu-18-78d4f4e411e5">Install Jenkins On Ubuntu 18</a>
 
 
 ## NodeJS
