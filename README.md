@@ -28,6 +28,8 @@ Medium.com articles link category-wise
 19. <a href="https://javascript.plainenglish.io/upload-file-using-angular-and-php-7ee12c67a28b"> How To Upload Files With Angular and PHP</a>
 20. <a href="https://javascript.plainenglish.io/integrate-google-maps-to-your-angular-application-step-by-step-guide-3604aadb76d1">Integrate Google Maps to Your Angular Application </a>
 
+## React
+1. <a href="https://bharathirajatut.medium.com/create-your-first-react-project-fe241147996e">Create Your First React Project</a>
 
 ## Ionic
 1. <a href="https://javascript.plainenglish.io/data-binding-event-binding-ionic-and-vue-hybrid-mobile-application-52059ff8cdee">Data Binding, Event Binding — Ionic and Vue | Hybrid Mobile Application</a>
@@ -57,6 +59,9 @@ Medium.com articles link category-wise
 
 ## PHP
 1. <a href="https://medium.com/ampersand-academy/php-read-and-write-excel-file-using-phpspreadsheet-ec0b41fb1fd0">PHP Read and Write Excel File Using PhpSpreadsheet</a>
+2. <a href="https://medium.com/codex/how-to-save-and-verify-password-using-php-and-mysql-64687086cc8d">How To Save and Verify Password Using PHP and MySQL</a>
+3. <a href="https://medium.com/ampersand-academy/generate-qr-code-using-php-b4d13a9ed8dd">Generate QR Code Using PHP</a>
+
 
 
 ## Flask (Python)
