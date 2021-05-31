@@ -30,6 +30,9 @@ Medium.com articles link category-wise
 
 ## React
 1. <a href="https://bharathirajatut.medium.com/create-your-first-react-project-fe241147996e">Create Your First React Project</a>
+2. <a href="https://medium.com/ampersand-academy/click-event-in-react-5ac88d8bc8a3"> Click Event in React</a>
+3. <a href="https://medium.com/codex/data-and-input-field-binding-in-react-ecf812f7380"> Data and Input Field Binding In React</a>
+4. <a href="https://medium.com/codex/how-to-use-array-in-reactjs-2a30d8b72503">How To Use Array In ReactJS </a>
 
 ## Ionic
 1. <a href="https://javascript.plainenglish.io/data-binding-event-binding-ionic-and-vue-hybrid-mobile-application-52059ff8cdee">Data Binding, Event Binding — Ionic and Vue | Hybrid Mobile Application</a>
@@ -61,6 +64,7 @@ Medium.com articles link category-wise
 1. <a href="https://medium.com/ampersand-academy/php-read-and-write-excel-file-using-phpspreadsheet-ec0b41fb1fd0">PHP Read and Write Excel File Using PhpSpreadsheet</a>
 2. <a href="https://medium.com/codex/how-to-save-and-verify-password-using-php-and-mysql-64687086cc8d">How To Save and Verify Password Using PHP and MySQL</a>
 3. <a href="https://medium.com/ampersand-academy/generate-qr-code-using-php-b4d13a9ed8dd">Generate QR Code Using PHP</a>
+4. <a href="https://javascript.plainenglish.io/why-you-should-run-automated-web-app-testing-b58323e9e68e">Why You Should Run Automated Web App Testing</a>
 
 
 
